@@ -37,7 +37,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'IoWE Documentation',
+        title: 'IoWE',
         logo: {
           alt: 'iowe',
           src: 'img/logo.svg',
@@ -47,7 +47,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {
             href: 'https://github.com/IoWE-Development/iowe-docs',
