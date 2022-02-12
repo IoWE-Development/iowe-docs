@@ -4,32 +4,35 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Our Vision',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       Big telcos have too much power --they control the public's access to the free flow of information, charge too much, and poorly maintain monopolized networks.
+ 
+ We want to democratize internet service provisioning and access, giving those that use and operate the network equity in the heart of the information age.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Our Story',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We're riding the decentralization wave that's lowering barriers and bringing the people into big tech & finance and providing opportunities for disruption at every turn.
+
+        People-powered internet connectivity is just one stop on our journey to a people powered world:
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Our Technology',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       We leverage the Helium LongFi hotspot  blockchain technology to provide coverage and grow the The People's Network.
+ 
+      By using Proof of Coverage the network is able to reward participants for continuously demonstrating their internet connectivity & broadcast signal and for transferring data over the network.
       </>
     ),
   },
