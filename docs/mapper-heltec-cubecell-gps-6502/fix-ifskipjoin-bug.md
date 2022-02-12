@@ -1,13 +1,13 @@
 ---
 id: ifskipjoin
-hide_title: false
+hide_title: true
 sidebar_label: Fix ifskipjoin
 slug: /mappers/cubecell/ifskipjoin-bug
 ---
 
 import useBaseUrl from "@docusaurus/useBaseUrl";
 
-<img className="docsheader" src={useBaseUrl("img/blockchain/mining.png")} />
+<img className="docsheader" src={useBaseUrl("img/docs/cubecell/ifskipjoin-header.png")} />
 
 # Fix ifskipjoin bug
 
