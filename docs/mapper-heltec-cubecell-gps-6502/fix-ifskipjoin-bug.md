@@ -78,3 +78,5 @@ Click on the PlatformIO icon in the left sidebar.
 Click Upload to compile and upload the firmware.
 
 <img className="docs-step" src={useBaseUrl("img/docs/cubecell/vscode-platformio-upload.png")} />
+
+The screen will go black on the mapper and then it will reboot.
